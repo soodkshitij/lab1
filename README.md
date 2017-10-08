@@ -1,5 +1,5 @@
 # lab1
-DataStore using rocksdb and grpc
+<b>DataStore using rocksdb and grpc</b><br><br>
 Enter the operation you want to perform.PUT or GET
 put
 
